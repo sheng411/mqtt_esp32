@@ -19,9 +19,15 @@
 
 # 實際展示
 
+Node-RED設計架構
+![image](https://github.com/user-attachments/assets/f3b2dd8b-3e2c-4205-a5ff-72426c8feae8)
+![image](https://github.com/user-attachments/assets/d67ae399-0238-4a02-8013-b8aa2226a380)
+
+  
 在Node-RED中設定使用LINE Notify自動推播至LINE上供使用者更方便閱覽
 ![S__29392903](https://github.com/user-attachments/assets/e67cf4a6-20c8-4b7d-a9a6-1392c451c4b2)
 
+  
 ### -主介面 
 可以查看所有裝置的運行狀況及近10分鐘的資訊
 ![image](https://github.com/user-attachments/assets/192a671b-faba-473b-9dc4-09130f5d4f52)
