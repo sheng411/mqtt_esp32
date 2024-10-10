@@ -11,7 +11,7 @@
 
 
 # 架構圖
-![image](https://github.com/user-attachments/assets/ba68c16d-a0fa-4a40-857f-f49999b2e854)
+![image](https://github.com/user-attachments/assets/148020fe-ff16-4d4a-92aa-fb0dc3d87b79)
 
 
 # 目的
